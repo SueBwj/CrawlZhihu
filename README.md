@@ -1,4 +1,4 @@
-# CrawlData
+# CrawlData.py
 爬取知乎热榜标题，内容和对应所有回答 -- 2024
 
 - 不需要使用selenium
@@ -7,7 +7,7 @@
 - 爬取结果以json形式保存
 
 
-# CrawlZhihu
+# CrawlZhihu.py
 爬取知乎热榜标题，内容和对应所有回答 -- 2024
 
 - 需要安装符合chrome版本的chromedriver并置于**与chrome相同的文件夹**，以及将文件夹路径添加进**系统环境变量**
